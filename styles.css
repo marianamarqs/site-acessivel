@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #030e13;
+    --preto: #030e13;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #0b3863;
@@ -41,7 +41,7 @@ section {
     margin: 0 auto;
 }
 
-/* posicionamento para a imagem à direita */
+/* posicionamento para a imagem no centro */
 .img-inicio {
     position: absolute;
     right: 0;
